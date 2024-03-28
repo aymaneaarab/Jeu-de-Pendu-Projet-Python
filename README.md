@@ -6,7 +6,7 @@
 
    ## apres click sur le fichier ca marche
    
-##  tu dois avoir Python installe das votre ordinateur.
+##  tu dois avoir Python installé das votre ordinateur.
 
 
 
