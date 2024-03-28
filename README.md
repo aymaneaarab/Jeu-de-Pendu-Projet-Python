@@ -2,7 +2,7 @@
 ### Jeu de Pendu avec Python
 
 ## Installation :
-     ```git clone  {url_repo} ```
+     git clone  {url_repo} 
 
    ## apres click sur le fichier ca marche
    
