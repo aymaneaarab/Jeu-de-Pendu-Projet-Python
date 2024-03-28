@@ -1,9 +1,11 @@
 
 ### Jeu de Pendu avec Python
 
-  ## Installation :
-      ``` git clone repo_url ```
-      ### apres click sur le fichier ca marche
+## Installation :
+     ```git clone  {url_repo} ```
+
+   ## apres click sur le fichier ca marche
+   
 ##  tu dois avoir Python installe das votre ordinateur.
 
 
